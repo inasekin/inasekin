@@ -18,10 +18,6 @@
 - [JS,React,Vue,Angular](https://github.com/inasekin/js-simple-projects-and-tasks) - Small projects and task solving with JS, React, Vue, Angular technologies
 - [Six cities](https://github.com/inasekin/six-cities-fullstack-app) — App with node.js and react
 - [Taskforce](https://github.com/inasekin/nestjs-taskforce) — App with nest.js
-- [Difference Generator](https://github.com/inasekin/frontend-project-46) - Gendiff is a utility compares two configuration files and shows a difference.
-- [sale.order.ajax](https://github.com/inasekin/sale.order.ajax) - Custom template for bitrix component sale.order.ajax
-- [API Bitrix](https://github.com/inasekin/api-bitrix) - Module for API operation for CMS 1C-Bitrix
-- [bitrix-import-export](https://github.com/inasekin/bitrix-import-export) - Module for data export and import for 1C Bitrix (csv/excel)
 
 ## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inasekin&layout=compact&theme=dark)
