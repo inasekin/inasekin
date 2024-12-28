@@ -19,8 +19,5 @@
 - [Six cities](https://github.com/inasekin/six-cities-fullstack-app) — App with node.js and react
 - [Taskforce](https://github.com/inasekin/nestjs-taskforce) — App with nest.js
 
-## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inasekin&layout=compact&theme=dark)
-
-## Other
+## Codewars
 ![Actions Status](https://www.codewars.com/users/inasekin/badges/large)
