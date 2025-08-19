@@ -15,10 +15,5 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
-## Public projects
-- [JS,React,Vue,Angular](https://github.com/inasekin/js-simple-projects-and-tasks) - Small projects and task solving with JS, React, Vue, Angular technologies
-- [Six cities](https://github.com/inasekin/six-cities-fullstack-app) — App with node.js and react
-- [Taskforce](https://github.com/inasekin/nestjs-taskforce) — App with nest.js
-
 ## Codewars
 ![Actions Status](https://www.codewars.com/users/inasekin/badges/large)
