@@ -11,3 +11,5 @@
 
 ## Codewars
 ![Actions Status](https://www.codewars.com/users/inasekin/badges/large)
+
+![Actions Status](https://badges.joonhyung.xyz/codeforces/nasekinid.svg)
